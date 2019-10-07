@@ -1,0 +1,2 @@
+# LamaBot
+ Bot dla Wonckiego
